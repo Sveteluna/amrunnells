@@ -27,6 +27,11 @@
  
 ### Some Other Books I Have Read 
 <!-- GOODREADS-READ-LIST:START -->
+- [Hollywood Godfather: My Life in the Movies and the Mob](https://www.goodreads.com/review/show/3022118485?utm_medium=api&utm_source=rss) by Gianni Russo (⭐⭐⭐⭐)
+- [Norse Mythology](https://www.goodreads.com/review/show/2990395724?utm_medium=api&utm_source=rss) by Neil Gaiman (⭐⭐⭐⭐⭐)
+- [The Westing Game](https://www.goodreads.com/review/show/3301757806?utm_medium=api&utm_source=rss) by Ellen Raskin (⭐⭐⭐⭐)
+- [The Da Vinci Code (Robert Langdon, #2)](https://www.goodreads.com/review/show/2983004568?utm_medium=api&utm_source=rss) by Dan Brown (⭐⭐⭐)
+- [A Study in Scarlet (Sherlock Holmes, #1)](https://www.goodreads.com/review/show/3376597295?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 <!---
 amrunnells/amrunnells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
