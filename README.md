@@ -22,16 +22,10 @@
 ### Currently Reading
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  <!-- GOODREADS-LIST:START -->
-- [Leadership is Language: The Hidden Power of What You Say -- and What You Don't](https://www.goodreads.com/review/show/4464822038?utm_medium=api&utm_source=rss) by L. David Marquet (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
 <!-- GOODREADS-READ-LIST:START -->
-- [Hollywood Godfather: My Life in the Movies and the Mob](https://www.goodreads.com/review/show/3022118485?utm_medium=api&utm_source=rss) by Gianni Russo (⭐⭐⭐⭐)
-- [Norse Mythology](https://www.goodreads.com/review/show/2990395724?utm_medium=api&utm_source=rss) by Neil Gaiman (⭐⭐⭐⭐⭐)
-- [The Westing Game](https://www.goodreads.com/review/show/3301757806?utm_medium=api&utm_source=rss) by Ellen Raskin (⭐⭐⭐⭐)
-- [The Da Vinci Code (Robert Langdon, #2)](https://www.goodreads.com/review/show/2983004568?utm_medium=api&utm_source=rss) by Dan Brown (⭐⭐⭐)
-- [A Study in Scarlet (Sherlock Holmes, #1)](https://www.goodreads.com/review/show/3376597295?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Where Else To Find Me
@@ -39,8 +33,7 @@
   <img align="left" alt="Alex's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.goodreads.com/user/show/21969908-alexandria-marie">
-  <img align="left" alt="Alex's Goodreads" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Goodreads_logo_-_SuperTinyIcons.svg/512px-Goodreads_logo_-_SuperTinyIcons.svg.png?20201124153956
-" />
+  <img align="left" alt="Alex's Goodreads" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Goodreads_logo_-_SuperTinyIcons.svg" />
 </a>
 <!---
 amrunnells/amrunnells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
