@@ -40,7 +40,7 @@
   <img align="left" alt="Alex's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.goodreads.com/user/show/21969908-alexandria-marie">
-  <img align="left" alt="Alex's Goodreads" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Goodreads_logo_-_SuperTinyIcons.svg" />
+  <img align="left" alt="Alex's Goodreads" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Goodreads_logo_-_SuperTinyIcons.svg" />
 </a>
 <!---
 amrunnells/amrunnells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
