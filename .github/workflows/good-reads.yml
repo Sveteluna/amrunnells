@@ -16,3 +16,10 @@ jobs:
           # Replace this with your goodreads user id
           goodreads_user_id: "21969908"
           shelf: "currently-reading"
+      - uses: zwacky/goodreads-profile-workflow@v1.2.2
+        with:
+          # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
+          goodreads_user_id: "21969908"
+          shelf: "read"
+          comment_tag_name: "GOODREADS-READ-LIST"
+          max_books_count: "5"
