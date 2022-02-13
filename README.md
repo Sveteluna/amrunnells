@@ -22,6 +22,8 @@
 ### Currently Reading
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  <!-- GOODREADS-LIST:START -->
+- [Sunreach (Skyward Flight: Novella 1) (The Skyward Series)](https://www.goodreads.com/review/show/4534434299?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
+- [Leadership is Language: The Hidden Power of What You Say -- and What You Don't](https://www.goodreads.com/review/show/4464822038?utm_medium=api&utm_source=rss) by L. David Marquet (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
