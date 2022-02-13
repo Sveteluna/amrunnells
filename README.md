@@ -22,6 +22,7 @@
 ### Currently Reading
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  <!-- GOODREADS-LIST:START -->
+- [Leadership is Language: The Hidden Power of What You Say -- and What You Don't](https://www.goodreads.com/review/show/4464822038?utm_medium=api&utm_source=rss) by L. David Marquet (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
