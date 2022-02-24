@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Siege and Storm (The Grisha, #2)](https://www.goodreads.com/review/show/4553409146?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
 - [Warbreaker (Warbreaker, #1)](https://www.goodreads.com/review/show/4556895179?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
 - [Leadership is Language: The Hidden Power of What You Say -- and What You Don't](https://www.goodreads.com/review/show/4464822038?utm_medium=api&utm_source=rss) by L. David Marquet (unrated)
 <!-- GOODREADS-LIST:END -->
