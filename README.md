@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [A Gentleman in Moscow](https://www.goodreads.com/review/show/4464819436?utm_medium=api&utm_source=rss) by Amor Towles (unrated)
 - [Leadership is Language: The Hidden Power of What You Say -- and What You Don't](https://www.goodreads.com/review/show/4464822038?utm_medium=api&utm_source=rss) by L. David Marquet (unrated)
 <!-- GOODREADS-LIST:END -->
  
