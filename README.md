@@ -23,10 +23,8 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Down Among the Sticks and Bones (Wayward Children, #2)](https://www.goodreads.com/review/show/4665107057?utm_medium=api&utm_source=rss) by Seanan McGuire (unrated)
-- [A Gentleman in Moscow](https://www.goodreads.com/review/show/4464819436?utm_medium=api&utm_source=rss) by Amor Towles (unrated)
 - [A Master of Djinn (Dead Djinn Universe, #1)](https://www.goodreads.com/review/show/4615043677?utm_medium=api&utm_source=rss) by P. Djèlí Clark (unrated)
-- [Leadership is Language: The Hidden Power of What You Say -- and What You Don't](https://www.goodreads.com/review/show/4464822038?utm_medium=api&utm_source=rss) by L. David Marquet (unrated)
+- [The Wicked King (The Folk of the Air, #2)](https://www.goodreads.com/review/show/4673416069?utm_medium=api&utm_source=rss) by Holly Black (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
