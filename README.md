@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [ONE PIECE 72](https://www.goodreads.com/review/show/4680393086?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 - [The Wicked King (The Folk of the Air, #2)](https://www.goodreads.com/review/show/4673416069?utm_medium=api&utm_source=rss) by Holly Black (unrated)
 <!-- GOODREADS-LIST:END -->
  
