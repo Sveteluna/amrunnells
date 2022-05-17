@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [The Wicked King (The Folk of the Air, #2)](https://www.goodreads.com/review/show/4673416069?utm_medium=api&utm_source=rss) by Holly Black (unrated)
+- [One Piece, Volume 74: Ever at Your Side](https://www.goodreads.com/review/show/4728669285?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
