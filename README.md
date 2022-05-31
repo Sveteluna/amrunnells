@@ -24,8 +24,8 @@
  
  <!-- GOODREADS-LIST:START -->
 - [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/4745554112?utm_medium=api&utm_source=rss) by Becky Chambers (unrated)
+- [Ruin and Rising (The Shadow and Bone Trilogy, #3)](https://www.goodreads.com/review/show/4755562754?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
 - [One Piece, Volume 74: Ever at Your Side](https://www.goodreads.com/review/show/4728669285?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
-- [The Bone Shard Daughter (The Drowning Empire, #1)](https://www.goodreads.com/review/show/4748964934?utm_medium=api&utm_source=rss) by Andrea Stewart (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
