@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [A Darker Shade of Magic (Shades of Magic, #1)](https://www.goodreads.com/review/show/4836072247?utm_medium=api&utm_source=rss) by V.E. Schwab (unrated)
 - [One Piece, Volume 73: Operation Dressrosa S.O.P.](https://www.goodreads.com/review/show/4829171652?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 - [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/4745554112?utm_medium=api&utm_source=rss) by Becky Chambers (unrated)
 - [One Piece, Volume 74: Ever at Your Side](https://www.goodreads.com/review/show/4728669285?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
