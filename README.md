@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [Moriarty (Sherlock Holmes, #2)](https://www.goodreads.com/review/show/4841736874?utm_medium=api&utm_source=rss) by Anthony Horowitz (unrated)
 - [One Piece, Volume 73: Operation Dressrosa S.O.P.](https://www.goodreads.com/review/show/4829171652?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 - [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/4745554112?utm_medium=api&utm_source=rss) by Becky Chambers (unrated)
 - [One Piece, Volume 74: Ever at Your Side](https://www.goodreads.com/review/show/4728669285?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
