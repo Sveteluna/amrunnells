@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [The Blade Itself (The First Law, #1)](https://www.goodreads.com/review/show/3208703317?utm_medium=api&utm_source=rss) by Joe Abercrombie (unrated)
-- [Beneath the Sugar Sky (Wayward Children, #3)](https://www.goodreads.com/review/show/4859962041?utm_medium=api&utm_source=rss) by Seanan McGuire (unrated)
 - [One Piece, Volume 73: Operation Dressrosa S.O.P.](https://www.goodreads.com/review/show/4829171652?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 - [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/4745554112?utm_medium=api&utm_source=rss) by Becky Chambers (unrated)
 - [One Piece, Volume 74: Ever at Your Side](https://www.goodreads.com/review/show/4728669285?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
