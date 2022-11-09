@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [The Book of Cold Cases](https://www.goodreads.com/review/show/5075974497?utm_medium=api&utm_source=rss) by Simone St. James (unrated)
 - [One Piece, Volume 74: Ever at Your Side](https://www.goodreads.com/review/show/4728669285?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 <!-- GOODREADS-LIST:END -->
  
