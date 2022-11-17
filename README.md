@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [The Lost Metal](https://www.goodreads.com/review/show/5109144099?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
 - [One Piece, Volume 74: Ever at Your Side](https://www.goodreads.com/review/show/4728669285?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 <!-- GOODREADS-LIST:END -->
  
