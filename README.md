@@ -24,7 +24,7 @@
  
  <!-- GOODREADS-LIST:START -->
 - [Harry Potter and the Sorcerer's Stone (Harry Potter, #1)](https://www.goodreads.com/review/show/3047664635?utm_medium=api&utm_source=rss) by J.K. Rowling (⭐⭐⭐⭐⭐)
-- [The Lost Metal](https://www.goodreads.com/review/show/5109144099?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
+- [The Lost Metal (The Mistborn Saga #7)](https://www.goodreads.com/review/show/5109144099?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
 - [One Piece, Volume 74: Ever at Your Side](https://www.goodreads.com/review/show/4728669285?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 <!-- GOODREADS-LIST:END -->
  
