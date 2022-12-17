@@ -34,7 +34,7 @@
 - [Norse Mythology](https://www.goodreads.com/review/show/2990395724?utm_medium=api&utm_source=rss) by Neil Gaiman (⭐⭐⭐⭐⭐)
 - [The Westing Game](https://www.goodreads.com/review/show/3301757806?utm_medium=api&utm_source=rss) by Ellen Raskin (⭐⭐⭐⭐)
 - [A Study in Scarlet (Sherlock Holmes, #1)](https://www.goodreads.com/review/show/3376597295?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐⭐⭐)
-- [Siege and Storm (The Shadow and Bone Trilogy #2)](https://www.goodreads.com/review/show/4553409146?utm_medium=api&utm_source=rss) by Leigh Bardugo (⭐⭐⭐⭐)
+- [Siege and Storm (The Shadow and Bone Trilogy, #2)](https://www.goodreads.com/review/show/4553409146?utm_medium=api&utm_source=rss) by Leigh Bardugo (⭐⭐⭐⭐)
 - [The Giver (The Giver, #1)](https://www.goodreads.com/review/show/3709054059?utm_medium=api&utm_source=rss) by Lois Lowry (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
