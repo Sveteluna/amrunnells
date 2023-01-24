@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Hell Bent (Alex Stern, #2)](https://www.goodreads.com/review/show/5265803778?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
 - [The Bone Shard Emperor (The Drowning Empire, #2)](https://www.goodreads.com/review/show/5239564179?utm_medium=api&utm_source=rss) by Andrea Stewart (unrated)
 - [Niccolo Rising (The House of Niccolo, #1)](https://www.goodreads.com/review/show/5192548632?utm_medium=api&utm_source=rss) by Dorothy Dunnett (unrated)
 - [Sensor](https://www.goodreads.com/review/show/5137118631?utm_medium=api&utm_source=rss) by Junji Ito (unrated)
