@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5328713957?utm_medium=api&utm_source=rss) by Gabrielle Zevin (unrated)
-- [Bunny](https://www.goodreads.com/review/show/5310435754?utm_medium=api&utm_source=rss) by Mona Awad (unrated)
 - [Niccolo Rising (The House of Niccolo, #1)](https://www.goodreads.com/review/show/5192548632?utm_medium=api&utm_source=rss) by Dorothy Dunnett (unrated)
 - [Sensor](https://www.goodreads.com/review/show/5137118631?utm_medium=api&utm_source=rss) by Junji Ito (unrated)
 - [Harry Potter and the Sorcerer's Stone (Harry Potter, #1)](https://www.goodreads.com/review/show/3047664635?utm_medium=api&utm_source=rss) by J.K. Rowling (⭐⭐⭐⭐⭐)
