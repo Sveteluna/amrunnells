@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [The Last Wish (The Witcher, #0.5)](https://www.goodreads.com/review/show/3208703715?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (unrated)
 - [Before They Are Hanged (The First Law, #2)](https://www.goodreads.com/review/show/5450261047?utm_medium=api&utm_source=rss) by Joe Abercrombie (unrated)
 - [Lost in the Moment and Found (Wayward Children, #8)](https://www.goodreads.com/review/show/5443495151?utm_medium=api&utm_source=rss) by Seanan McGuire (unrated)
 - [Six of Crows (Six of Crows, #1)](https://www.goodreads.com/review/show/5427242729?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
