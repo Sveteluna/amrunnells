@@ -25,7 +25,6 @@
  <!-- GOODREADS-LIST:START -->
 - [The Last Wish (The Witcher, #0.5)](https://www.goodreads.com/review/show/3208703715?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (unrated)
 - [Before They Are Hanged (The First Law, #2)](https://www.goodreads.com/review/show/5450261047?utm_medium=api&utm_source=rss) by Joe Abercrombie (unrated)
-- [Lost in the Moment and Found (Wayward Children, #8)](https://www.goodreads.com/review/show/5443495151?utm_medium=api&utm_source=rss) by Seanan McGuire (unrated)
 - [Six of Crows (Six of Crows, #1)](https://www.goodreads.com/review/show/5427242729?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
 - [Sensor](https://www.goodreads.com/review/show/5137118631?utm_medium=api&utm_source=rss) by Junji Ito (unrated)
 - [Harry Potter and the Sorcerer's Stone (Harry Potter, #1)](https://www.goodreads.com/review/show/3047664635?utm_medium=api&utm_source=rss) by J.K. Rowling (⭐⭐⭐⭐⭐)
