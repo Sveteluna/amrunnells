@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [Stephen Leeds: Death and Faxes](https://www.goodreads.com/review/show/5488789398?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
 - [Night Watch (Watch, #1)](https://www.goodreads.com/review/show/5486735714?utm_medium=api&utm_source=rss) by Sergei Lukyanenko (unrated)
 - [The Last Wish (The Witcher, #0.5)](https://www.goodreads.com/review/show/3208703715?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (unrated)
 - [Before They Are Hanged (The First Law, #2)](https://www.goodreads.com/review/show/5450261047?utm_medium=api&utm_source=rss) by Joe Abercrombie (unrated)
