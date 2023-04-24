@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [Record of a Spaceborn Few (Wayfarers, #3)](https://www.goodreads.com/review/show/5490429623?utm_medium=api&utm_source=rss) by Becky  Chambers (unrated)
-- [Night Watch (Watch, #1)](https://www.goodreads.com/review/show/5486735714?utm_medium=api&utm_source=rss) by Sergei Lukyanenko (unrated)
 - [Sensor (Junji Ito)](https://www.goodreads.com/review/show/5137118631?utm_medium=api&utm_source=rss) by Junji Ito (unrated)
 - [Harry Potter and the Sorcerer's Stone (Harry Potter, #1)](https://www.goodreads.com/review/show/3047664635?utm_medium=api&utm_source=rss) by J.K. Rowling (⭐⭐⭐⭐⭐)
 - [One Piece, Volume 74: Ever at Your Side](https://www.goodreads.com/review/show/4728669285?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
