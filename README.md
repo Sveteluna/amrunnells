@@ -23,10 +23,8 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Record of a Spaceborn Few (Wayfarers, #3)](https://www.goodreads.com/review/show/5490429623?utm_medium=api&utm_source=rss) by Becky  Chambers (unrated)
-- [Sensor (Junji Ito)](https://www.goodreads.com/review/show/5137118631?utm_medium=api&utm_source=rss) by Junji Ito (unrated)
-- [Harry Potter and the Sorcerer's Stone (Harry Potter, #1)](https://www.goodreads.com/review/show/3047664635?utm_medium=api&utm_source=rss) by J.K. Rowling (⭐⭐⭐⭐⭐)
-- [One Piece, Volume 74: Ever at Your Side](https://www.goodreads.com/review/show/4728669285?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
+- [Before They Are Hanged (The First Law, #2)](https://www.goodreads.com/review/show/5450261047?utm_medium=api&utm_source=rss) by Joe Abercrombie (unrated)
+- [The Sentence](https://www.goodreads.com/review/show/5508137316?utm_medium=api&utm_source=rss) by Louise Erdrich (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
