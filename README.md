@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [Six of Crows (Six of Crows, #1)](https://www.goodreads.com/review/show/5427242729?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
 - [Before They Are Hanged (The First Law, #2)](https://www.goodreads.com/review/show/5450261047?utm_medium=api&utm_source=rss) by Joe Abercrombie (unrated)
 - [The Sentence](https://www.goodreads.com/review/show/5508137316?utm_medium=api&utm_source=rss) by Louise Erdrich (unrated)
 <!-- GOODREADS-LIST:END -->
