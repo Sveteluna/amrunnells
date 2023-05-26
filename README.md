@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [Crooked Kingdom (Six of Crows, #2)](https://www.goodreads.com/review/show/5574716409?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
 - [A Psalm for the Wild-Built (Monk & Robot, #1)](https://www.goodreads.com/review/show/5557953130?utm_medium=api&utm_source=rss) by Becky  Chambers (unrated)
 - [The Sentence](https://www.goodreads.com/review/show/5508137316?utm_medium=api&utm_source=rss) by Louise Erdrich (unrated)
 <!-- GOODREADS-LIST:END -->
