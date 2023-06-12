@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [A Darker Shade of Magic (Shades of Magic, #1)](https://www.goodreads.com/review/show/5614260041?utm_medium=api&utm_source=rss) by V.E. Schwab (unrated)
 - [The Sentence](https://www.goodreads.com/review/show/5508137316?utm_medium=api&utm_source=rss) by Louise Erdrich (unrated)
 <!-- GOODREADS-LIST:END -->
  
