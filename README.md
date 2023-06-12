@@ -32,8 +32,8 @@
 - [Siege and Storm (The Shadow and Bone Trilogy, #2)](https://www.goodreads.com/review/show/4553409146?utm_medium=api&utm_source=rss) by Leigh Bardugo (⭐⭐⭐⭐)
 - [The Giver (The Giver, #1)](https://www.goodreads.com/review/show/3709054059?utm_medium=api&utm_source=rss) by Lois Lowry (⭐⭐⭐⭐)
 - [Promise of Blood (Powder Mage, #1)](https://www.goodreads.com/review/show/3754125790?utm_medium=api&utm_source=rss) by Brian  McClellan (⭐⭐⭐)
-- [Grave Peril (The Dresden Files, #3)](https://www.goodreads.com/review/show/3504320198?utm_medium=api&utm_source=rss) by Jim Butcher (⭐⭐⭐⭐)
 - [Before They Are Hanged (The First Law, #2)](https://www.goodreads.com/review/show/5450261047?utm_medium=api&utm_source=rss) by Joe Abercrombie (⭐⭐⭐)
+- [Death Masks (The Dresden Files, #5)](https://www.goodreads.com/review/show/3503016144?utm_medium=api&utm_source=rss) by Jim Butcher (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Where Else To Find Me
