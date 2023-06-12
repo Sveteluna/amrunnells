@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Last Argument of Kings (The First Law, #3)](https://www.goodreads.com/review/show/5587052331?utm_medium=api&utm_source=rss) by Joe Abercrombie (unrated)
 - [The Sentence](https://www.goodreads.com/review/show/5508137316?utm_medium=api&utm_source=rss) by Louise Erdrich (unrated)
 <!-- GOODREADS-LIST:END -->
  
