@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [A Gathering of Shadows (Shades of Magic, #2)](https://www.goodreads.com/review/show/5696080315?utm_medium=api&utm_source=rss) by V.E. Schwab (unrated)
+- [Harrow the Ninth (The Locked Tomb, #2)](https://www.goodreads.com/review/show/5719015828?utm_medium=api&utm_source=rss) by Tamsyn Muir (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
