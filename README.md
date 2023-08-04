@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Harrow the Ninth (The Locked Tomb, #2)](https://www.goodreads.com/review/show/5719015828?utm_medium=api&utm_source=rss) by Tamsyn Muir (unrated)
+- [Nona the Ninth (The Locked Tomb, #3)](https://www.goodreads.com/review/show/5743359690?utm_medium=api&utm_source=rss) by Tamsyn Muir (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
