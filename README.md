@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [Cover Story](https://www.goodreads.com/review/show/5743360786?utm_medium=api&utm_source=rss) by Susan Rigetti (unrated)
-- [Nona the Ninth (The Locked Tomb, #3)](https://www.goodreads.com/review/show/5743359690?utm_medium=api&utm_source=rss) by Tamsyn Muir (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
