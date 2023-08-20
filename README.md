@@ -23,7 +23,8 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Cover Story](https://www.goodreads.com/review/show/5743360786?utm_medium=api&utm_source=rss) by Susan Rigetti (unrated)
+- [Leviathan Wakes (The Expanse, #1)](https://www.goodreads.com/review/show/5063430896?utm_medium=api&utm_source=rss) by James S.A. Corey (unrated)
+- [Head On (Lock In, #2)](https://www.goodreads.com/review/show/5782727199?utm_medium=api&utm_source=rss) by John Scalzi (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
