@@ -23,8 +23,8 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Leviathan Wakes (The Expanse, #1)](https://www.goodreads.com/review/show/5063430896?utm_medium=api&utm_source=rss) by James S.A. Corey (unrated)
-- [Head On (Lock In, #2)](https://www.goodreads.com/review/show/5782727199?utm_medium=api&utm_source=rss) by John Scalzi (unrated)
+- [Words of Radiance (The Stormlight Archive, #2)](https://www.goodreads.com/review/show/5822726207?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
+- [The Secret Service of Tea and Treason (Dangerous Damsels, #3)](https://www.goodreads.com/review/show/5822725487?utm_medium=api&utm_source=rss) by India Holton (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
