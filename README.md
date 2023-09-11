@@ -30,10 +30,10 @@
 ### Some Other Books I Have Read 
 <!-- GOODREADS-READ-LIST:START -->
 - [Siege and Storm (The Shadow and Bone Trilogy, #2)](https://www.goodreads.com/review/show/4553409146?utm_medium=api&utm_source=rss) by Leigh Bardugo (⭐⭐⭐⭐)
-- [Promise of Blood (Powder Mage, #1)](https://www.goodreads.com/review/show/3754125790?utm_medium=api&utm_source=rss) by Brian  McClellan (⭐⭐⭐)
 - [Before They Are Hanged (The First Law, #2)](https://www.goodreads.com/review/show/5450261047?utm_medium=api&utm_source=rss) by Joe Abercrombie (⭐⭐⭐)
 - [Niccolo Rising (The House of Niccolo, #1)](https://www.goodreads.com/review/show/5192548632?utm_medium=api&utm_source=rss) by Dorothy Dunnett (⭐⭐⭐)
 - [The Last House on Needless Street](https://www.goodreads.com/review/show/5620256397?utm_medium=api&utm_source=rss) by Catriona Ward (⭐⭐⭐⭐⭐)
+- [One Piece, Volume 73: Operation Dressrosa S.O.P.](https://www.goodreads.com/review/show/4829171652?utm_medium=api&utm_source=rss) by Eiichiro Oda (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Where Else To Find Me
