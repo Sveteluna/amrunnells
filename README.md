@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [One Piece, Volume 77: Smile](https://www.goodreads.com/review/show/5870795224?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 - [Words of Radiance (The Stormlight Archive, #2)](https://www.goodreads.com/review/show/5822726207?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
 - [The Secret Service of Tea and Treason (Dangerous Damsels, #3)](https://www.goodreads.com/review/show/5822725487?utm_medium=api&utm_source=rss) by India Holton (unrated)
 <!-- GOODREADS-LIST:END -->
