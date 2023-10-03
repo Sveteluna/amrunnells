@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [I Was Anastasia](https://www.goodreads.com/review/show/5883122316?utm_medium=api&utm_source=rss) by Ariel Lawhon (unrated)
 - [The Thief (The Queen's Thief, #1)](https://www.goodreads.com/review/show/5882478820?utm_medium=api&utm_source=rss) by Megan Whalen Turner (unrated)
 - [House of Leaves](https://www.goodreads.com/review/show/5870796517?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (unrated)
 - [One Piece, Volume 77: Smile](https://www.goodreads.com/review/show/5870795224?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
