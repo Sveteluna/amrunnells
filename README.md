@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [The Name of the Wind (The Kingkiller Chronicle, #1)](https://www.goodreads.com/review/show/2948957826?utm_medium=api&utm_source=rss) by Patrick Rothfuss (⭐⭐⭐⭐⭐)
+- [Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch](https://www.goodreads.com/review/show/5909346534?utm_medium=api&utm_source=rss) by Terry Pratchett (unrated)
 - [The Thief (The Queen's Thief, #1)](https://www.goodreads.com/review/show/5882478820?utm_medium=api&utm_source=rss) by Megan Whalen Turner (unrated)
 - [House of Leaves](https://www.goodreads.com/review/show/5870796517?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (unrated)
 <!-- GOODREADS-LIST:END -->
