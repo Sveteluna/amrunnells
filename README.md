@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Recursion](https://www.goodreads.com/review/show/5922517267?utm_medium=api&utm_source=rss) by Blake Crouch (unrated)
 - [The Thief (The Queen's Thief, #1)](https://www.goodreads.com/review/show/5882478820?utm_medium=api&utm_source=rss) by Megan Whalen Turner (unrated)
 - [House of Leaves](https://www.goodreads.com/review/show/5870796517?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (unrated)
 <!-- GOODREADS-LIST:END -->
