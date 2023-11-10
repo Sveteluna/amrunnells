@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [The Wise Man's Fear (The Kingkiller Chronicle, #2)](https://www.goodreads.com/review/show/5967865700?utm_medium=api&utm_source=rss) by Patrick Rothfuss (unrated)
 - [House of Leaves](https://www.goodreads.com/review/show/5870796517?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (unrated)
 <!-- GOODREADS-LIST:END -->
  
