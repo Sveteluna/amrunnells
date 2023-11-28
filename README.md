@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [Mary: An Awakening of Terror](https://www.goodreads.com/review/show/5622614121?utm_medium=api&utm_source=rss) by Nat Cassidy (unrated)
-- [The Wise Man's Fear (The Kingkiller Chronicle, #2)](https://www.goodreads.com/review/show/5967865700?utm_medium=api&utm_source=rss) by Patrick Rothfuss (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
