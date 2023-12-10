@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Mary: An Awakening of Terror](https://www.goodreads.com/review/show/5622614121?utm_medium=api&utm_source=rss) by Nat Cassidy (unrated)
+- [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
