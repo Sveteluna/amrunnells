@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Cinder (The Lunar Chronicles, #1)](https://www.goodreads.com/review/show/3012943650?utm_medium=api&utm_source=rss) by Marissa Meyer (⭐⭐⭐⭐⭐)
 - [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
 <!-- GOODREADS-LIST:END -->
  
