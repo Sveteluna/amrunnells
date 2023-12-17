@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
+- [Starling House](https://www.goodreads.com/review/show/5998709808?utm_medium=api&utm_source=rss) by Alix E. Harrow (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
