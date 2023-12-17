@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [Defiant (Skyward, #4)](https://www.goodreads.com/review/show/6057613045?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
 - [Starling House](https://www.goodreads.com/review/show/5998709808?utm_medium=api&utm_source=rss) by Alix E. Harrow (unrated)
 <!-- GOODREADS-LIST:END -->
  
