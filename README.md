@@ -24,7 +24,7 @@
  
  <!-- GOODREADS-LIST:START -->
 - [Defiant (Skyward, #4)](https://www.goodreads.com/review/show/6057613045?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
-- [Starling House](https://www.goodreads.com/review/show/5998709808?utm_medium=api&utm_source=rss) by Alix E. Harrow (unrated)
+- [Starling House: A Reese's Book Club Pick](https://www.goodreads.com/review/show/5998709808?utm_medium=api&utm_source=rss) by Alix E. Harrow (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
