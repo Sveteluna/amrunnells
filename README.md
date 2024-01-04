@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Defiant (Skyward, #4)](https://www.goodreads.com/review/show/6057613045?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
+- [Ink Blood Sister Scribe](https://www.goodreads.com/review/show/6128087378?utm_medium=api&utm_source=rss) by Emma Törzs (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
