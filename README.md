@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [The Man Who Was Thursday: A Nightmare](https://www.goodreads.com/review/show/6153877054?utm_medium=api&utm_source=rss) by G.K. Chesterton (unrated)
 - [Ink Blood Sister Scribe](https://www.goodreads.com/review/show/6128087378?utm_medium=api&utm_source=rss) by Emma Törzs (unrated)
 <!-- GOODREADS-LIST:END -->
  
