@@ -31,8 +31,8 @@
 - [The Book of Cold Cases](https://www.goodreads.com/review/show/5075974497?utm_medium=api&utm_source=rss) by Simone St. James (⭐⭐⭐)
 - [The Blade Itself (The First Law, #1)](https://www.goodreads.com/review/show/3208703317?utm_medium=api&utm_source=rss) by Joe Abercrombie (⭐⭐⭐⭐⭐)
 - [One Piece, Volume 76: Just Keep Going](https://www.goodreads.com/review/show/5870794035?utm_medium=api&utm_source=rss) by Eiichiro Oda (⭐⭐⭐⭐)
+- [Caliban's War (The Expanse, #2)](https://www.goodreads.com/review/show/6168655346?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐⭐⭐⭐⭐)
 - [Siege and Storm (The Shadow and Bone Trilogy, #2)](https://www.goodreads.com/review/show/4553409146?utm_medium=api&utm_source=rss) by Leigh Bardugo (⭐⭐⭐⭐)
-- [One Piece, Volume 71: Coliseum of Scoundrels](https://www.goodreads.com/review/show/4680246223?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Where Else To Find Me
