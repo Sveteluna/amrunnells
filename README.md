@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Caliban's War (The Expanse, #2)](https://www.goodreads.com/review/show/6168655346?utm_medium=api&utm_source=rss) by James S.A. Corey (unrated)
 - [Mislaid in Parts Half-Known (Wayward Children, #9)](https://www.goodreads.com/review/show/6168489868?utm_medium=api&utm_source=rss) by Seanan McGuire (unrated)
 <!-- GOODREADS-LIST:END -->
  
