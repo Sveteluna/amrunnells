@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [Guards! Guards! (Discworld, #8; City Watch, #1)](https://www.goodreads.com/review/show/3712643918?utm_medium=api&utm_source=rss) by Terry Pratchett (unrated)
 - [Mislaid in Parts Half-Known (Wayward Children, #9)](https://www.goodreads.com/review/show/6168489868?utm_medium=api&utm_source=rss) by Seanan McGuire (unrated)
 <!-- GOODREADS-LIST:END -->
  
