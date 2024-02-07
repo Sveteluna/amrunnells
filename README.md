@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Guards! Guards! (Discworld, #8; City Watch, #1)](https://www.goodreads.com/review/show/3712643918?utm_medium=api&utm_source=rss) by Terry Pratchett (unrated)
+- [Dating & Dismemberment: A Monster RomCom (Mating and Monsters Book 1)](https://www.goodreads.com/review/show/6243871269?utm_medium=api&utm_source=rss) by A.L. Brody (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
