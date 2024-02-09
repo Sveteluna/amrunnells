@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [Not Pounded By The Physical Manifestation Of Someone Else's Doubt In My Place On The Autism Spectrum Because Denying Someone's Personal Journey And Identity Like That Is Incredibly Rude So No Thanks](https://www.goodreads.com/review/show/6249259945?utm_medium=api&utm_source=rss) by Chuck Tingle (unrated)
 - [Dating & Dismemberment: A Monster RomCom (Mating and Monsters Book 1)](https://www.goodreads.com/review/show/6243871269?utm_medium=api&utm_source=rss) by A.L. Brody (unrated)
 <!-- GOODREADS-LIST:END -->
  
