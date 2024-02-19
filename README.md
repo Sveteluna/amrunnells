@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [The Sentient Lesbian Em Dash — My Favorite Punctuation Mark — Gets Me Off](https://www.goodreads.com/review/show/6275477391?utm_medium=api&utm_source=rss) by Chuck Tingle (unrated)
 - [Dating & Dismemberment: A Monster RomCom (Mating and Monsters Book 1)](https://www.goodreads.com/review/show/6243871269?utm_medium=api&utm_source=rss) by A.L. Brody (unrated)
 <!-- GOODREADS-LIST:END -->
  
