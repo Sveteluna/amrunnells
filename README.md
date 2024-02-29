@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [The Fear Of The Unknown Gives My Butt Pause But Then I Realize How Powerful And Unique I Am And We Pound Enthusiastically](https://www.goodreads.com/review/show/6290229035?utm_medium=api&utm_source=rss) by Chuck Tingle (unrated)
-- [Dating & Dismemberment: A Monster RomCom (Mating and Monsters Book 1)](https://www.goodreads.com/review/show/6243871269?utm_medium=api&utm_source=rss) by A.L. Brody (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
