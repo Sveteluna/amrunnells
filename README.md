@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [The Fear Of The Unknown Gives My Butt Pause But Then I Realize How Powerful And Unique I Am And We Pound Enthusiastically](https://www.goodreads.com/review/show/6290229035?utm_medium=api&utm_source=rss) by Chuck Tingle (unrated)
+- [Nettle &amp; Bone](https://www.goodreads.com/review/show/6303486890?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
