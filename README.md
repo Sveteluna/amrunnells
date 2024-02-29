@@ -30,9 +30,9 @@
 <!-- GOODREADS-READ-LIST:START -->
 - [The Book of Cold Cases](https://www.goodreads.com/review/show/5075974497?utm_medium=api&utm_source=rss) by Simone St. James (⭐⭐⭐)
 - [The Blade Itself (The First Law, #1)](https://www.goodreads.com/review/show/3208703317?utm_medium=api&utm_source=rss) by Joe Abercrombie (⭐⭐⭐⭐⭐)
+- [Dating & Dismemberment: A Monster RomCom (Mating and Monsters Book 1)](https://www.goodreads.com/review/show/6243871269?utm_medium=api&utm_source=rss) by A.L. Brody (⭐⭐⭐⭐)
 - [One Piece, Volume 76: Just Keep Going](https://www.goodreads.com/review/show/5870794035?utm_medium=api&utm_source=rss) by Eiichiro Oda (⭐⭐⭐⭐)
 - [Mislaid in Parts Half-Known (Wayward Children, #9)](https://www.goodreads.com/review/show/6168489868?utm_medium=api&utm_source=rss) by Seanan McGuire (⭐)
-- [Caliban's War (The Expanse, #2)](https://www.goodreads.com/review/show/6168655346?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Where Else To Find Me
