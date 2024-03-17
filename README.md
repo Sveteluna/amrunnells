@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Nemesis Games (The Expanse, #5)](https://www.goodreads.com/review/show/6315215156?utm_medium=api&utm_source=rss) by James S.A. Corey (unrated)
+- [The Phantom Tollbooth](https://www.goodreads.com/review/show/6350452558?utm_medium=api&utm_source=rss) by Norton Juster (unrated)
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/6303486890?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
 <!-- GOODREADS-LIST:END -->
  
