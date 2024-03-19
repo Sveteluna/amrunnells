@@ -25,7 +25,6 @@
  <!-- GOODREADS-LIST:START -->
 - [Babylon's Ashes (The Expanse, #6)](https://www.goodreads.com/review/show/6352951549?utm_medium=api&utm_source=rss) by James S.A. Corey (unrated)
 - [King of Scars (King of Scars, #1)](https://www.goodreads.com/review/show/5922452184?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
-- [The Phantom Tollbooth](https://www.goodreads.com/review/show/6350452558?utm_medium=api&utm_source=rss) by Norton Juster (unrated)
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/6303486890?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
 <!-- GOODREADS-LIST:END -->
  
