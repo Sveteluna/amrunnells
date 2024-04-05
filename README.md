@@ -24,9 +24,7 @@
  
  <!-- GOODREADS-LIST:START -->
 - [Jamaica Inn](https://www.goodreads.com/review/show/6398171724?utm_medium=api&utm_source=rss) by Daphne du Maurier (unrated)
-- [Orconomics (The Dark Profit Saga, #1)](https://www.goodreads.com/review/show/6358914086?utm_medium=api&utm_source=rss) by J. Zachary Pike (unrated)
 - [Babylon's Ashes (The Expanse, #6)](https://www.goodreads.com/review/show/6352951549?utm_medium=api&utm_source=rss) by James S.A. Corey (unrated)
-- [King of Scars (King of Scars, #1)](https://www.goodreads.com/review/show/5922452184?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/6303486890?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
 <!-- GOODREADS-LIST:END -->
  
