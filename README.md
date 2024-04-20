@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [The Warm Hands of Ghosts](https://www.goodreads.com/review/show/6354406626?utm_medium=api&utm_source=rss) by Katherine Arden (unrated)
 - [Death with Interruptions](https://www.goodreads.com/review/show/6429392041?utm_medium=api&utm_source=rss) by José Saramago (unrated)
 - [Jamaica Inn](https://www.goodreads.com/review/show/6398171724?utm_medium=api&utm_source=rss) by Daphne du Maurier (unrated)
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/6303486890?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
