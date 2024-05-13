@@ -23,8 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Strange the Dreamer (Strange the Dreamer, #1)](https://www.goodreads.com/review/show/6494354150?utm_medium=api&utm_source=rss) by Laini Taylor (unrated)
-- [The Vital Abyss (Expanse, #5.5)](https://www.goodreads.com/review/show/6484126213?utm_medium=api&utm_source=rss) by James S.A. Corey (unrated)
 - [Death with Interruptions](https://www.goodreads.com/review/show/6429392041?utm_medium=api&utm_source=rss) by José Saramago (unrated)
 - [Jamaica Inn](https://www.goodreads.com/review/show/6398171724?utm_medium=api&utm_source=rss) by Daphne du Maurier (unrated)
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/6303486890?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
