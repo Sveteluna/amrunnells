@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [The Ocean at the End of the Lane](https://www.goodreads.com/review/show/2960630049?utm_medium=api&utm_source=rss) by Neil Gaiman (⭐⭐⭐⭐)
 - [Death with Interruptions](https://www.goodreads.com/review/show/6429392041?utm_medium=api&utm_source=rss) by José Saramago (unrated)
 - [Jamaica Inn](https://www.goodreads.com/review/show/6398171724?utm_medium=api&utm_source=rss) by Daphne du Maurier (unrated)
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/6303486890?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
