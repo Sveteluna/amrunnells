@@ -33,7 +33,7 @@
 - [The Book of Cold Cases](https://www.goodreads.com/review/show/5075974497?utm_medium=api&utm_source=rss) by Simone St. James (⭐⭐⭐)
 - [The Blade Itself (The First Law, #1)](https://www.goodreads.com/review/show/3208703317?utm_medium=api&utm_source=rss) by Joe Abercrombie (⭐⭐⭐⭐⭐)
 - [The Fear Of The Unknown Gives My Butt Pause But Then I Realize How Powerful And Unique I Am And We Pound Enthusiastically](https://www.goodreads.com/review/show/6290229035?utm_medium=api&utm_source=rss) by Chuck Tingle (⭐⭐⭐⭐)
-- [Dating & Dismemberment: A Monster RomCom (Mating and Monsters Book 1)](https://www.goodreads.com/review/show/6243871269?utm_medium=api&utm_source=rss) by A.L. Brody (⭐⭐⭐⭐)
+- [Dating & Dismemberment: A Monster RomCom](https://www.goodreads.com/review/show/6243871269?utm_medium=api&utm_source=rss) by A.L. Brody (⭐⭐⭐⭐)
 - [One Piece, Volume 76: Just Keep Going](https://www.goodreads.com/review/show/5870794035?utm_medium=api&utm_source=rss) by Eiichiro Oda (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
