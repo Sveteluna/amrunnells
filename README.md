@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [Tiamat's Wrath (The Expanse, #8)](https://www.goodreads.com/review/show/6633884135?utm_medium=api&utm_source=rss) by James S.A. Corey (unrated)
-- [The Reaper's Son: A Love Story About Two Lost Souls](https://www.goodreads.com/review/show/6605607349?utm_medium=api&utm_source=rss) by A.L. Brody (unrated)
 - [Death with Interruptions](https://www.goodreads.com/review/show/6429392041?utm_medium=api&utm_source=rss) by José Saramago (unrated)
 - [Jamaica Inn](https://www.goodreads.com/review/show/6398171724?utm_medium=api&utm_source=rss) by Daphne du Maurier (unrated)
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/6303486890?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
