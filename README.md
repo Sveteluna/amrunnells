@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [Senlin Ascends (The Books of Babel, #1)](https://www.goodreads.com/review/show/6771832767?utm_medium=api&utm_source=rss) by Josiah Bancroft (unrated)
 - [Rule of Wolves (King of Scars, #2)](https://www.goodreads.com/review/show/6770583837?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
 - [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
 - [The Sins of Our Fathers (The Expanse #9.5)](https://www.goodreads.com/review/show/6705674084?utm_medium=api&utm_source=rss) by James S.A. Corey (unrated)
