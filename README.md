@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Red Rising (Red Rising Saga, #1)](https://www.goodreads.com/review/show/5016961999?utm_medium=api&utm_source=rss) by Pierce Brown (unrated)
+- [Strange the Dreamer (Strange the Dreamer, #1)](https://www.goodreads.com/review/show/6494354150?utm_medium=api&utm_source=rss) by Laini Taylor (unrated)
 - [Senlin Ascends (The Books of Babel, #1)](https://www.goodreads.com/review/show/6771832767?utm_medium=api&utm_source=rss) by Josiah Bancroft (unrated)
 - [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
 <!-- GOODREADS-LIST:END -->
