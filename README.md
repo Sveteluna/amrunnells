@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [The Familiar](https://www.goodreads.com/review/show/6808595972?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
-- [Strange the Dreamer (Strange the Dreamer, #1)](https://www.goodreads.com/review/show/6494354150?utm_medium=api&utm_source=rss) by Laini Taylor (unrated)
 - [Senlin Ascends (The Books of Babel, #1)](https://www.goodreads.com/review/show/6771832767?utm_medium=api&utm_source=rss) by Josiah Bancroft (unrated)
 - [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
 <!-- GOODREADS-LIST:END -->
