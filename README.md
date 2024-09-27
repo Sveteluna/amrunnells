@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [A Confederacy of Dunces](https://www.goodreads.com/review/show/6837688873?utm_medium=api&utm_source=rss) by John Kennedy Toole (unrated)
-- [The Familiar](https://www.goodreads.com/review/show/6808595972?utm_medium=api&utm_source=rss) by Leigh Bardugo (unrated)
 - [Senlin Ascends (The Books of Babel, #1)](https://www.goodreads.com/review/show/6771832767?utm_medium=api&utm_source=rss) by Josiah Bancroft (unrated)
 - [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
 <!-- GOODREADS-LIST:END -->
