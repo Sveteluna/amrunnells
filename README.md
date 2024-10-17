@@ -23,8 +23,8 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [The Book of Witching](https://www.goodreads.com/review/show/6932999327?utm_medium=api&utm_source=rss) by C.J.  Cooke (unrated)
 - [A Confederacy of Dunces](https://www.goodreads.com/review/show/6837688873?utm_medium=api&utm_source=rss) by John Kennedy Toole (unrated)
-- [Senlin Ascends (The Books of Babel, #1)](https://www.goodreads.com/review/show/6771832767?utm_medium=api&utm_source=rss) by Josiah Bancroft (unrated)
 - [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
 <!-- GOODREADS-LIST:END -->
  
