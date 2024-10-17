@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [One Piece, Volume 80: Opening Speech](https://www.goodreads.com/review/show/6933984917?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 - [The Book of Witching](https://www.goodreads.com/review/show/6932999327?utm_medium=api&utm_source=rss) by C.J.  Cooke (unrated)
 - [A Confederacy of Dunces](https://www.goodreads.com/review/show/6837688873?utm_medium=api&utm_source=rss) by John Kennedy Toole (unrated)
 - [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
