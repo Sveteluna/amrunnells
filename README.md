@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [A House With Good Bones](https://www.goodreads.com/review/show/6965172224?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
 - [The Book of Witching](https://www.goodreads.com/review/show/6932999327?utm_medium=api&utm_source=rss) by C.J.  Cooke (unrated)
 - [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
 <!-- GOODREADS-LIST:END -->
