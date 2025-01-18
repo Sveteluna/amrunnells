@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [One Piece, Vol. 82: The World Is Restless](https://www.goodreads.com/review/show/7228189280?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 - [The Book of Witching](https://www.goodreads.com/review/show/6932999327?utm_medium=api&utm_source=rss) by C.J.  Cooke (unrated)
 - [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
 <!-- GOODREADS-LIST:END -->
