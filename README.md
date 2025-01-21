@@ -23,7 +23,6 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7229656529?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
 - [One Piece, Vol. 82: The World Is Restless](https://www.goodreads.com/review/show/7228189280?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 - [Yellowface](https://www.goodreads.com/review/show/6038157672?utm_medium=api&utm_source=rss) by R.F. Kuang (unrated)
 <!-- GOODREADS-LIST:END -->
