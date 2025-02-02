@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [Tender Is the Flesh](https://www.goodreads.com/review/show/7276253293?utm_medium=api&utm_source=rss) by Agustina Bazterrica (unrated)
-- [Arm of the Sphinx (The Books of Babel, #2)](https://www.goodreads.com/review/show/7257995074?utm_medium=api&utm_source=rss) by Josiah Bancroft (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
