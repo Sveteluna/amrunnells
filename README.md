@@ -24,7 +24,6 @@
  
  <!-- GOODREADS-LIST:START -->
 - [The Lies of Locke Lamora (Gentleman Bastard, #1)](https://www.goodreads.com/review/show/3208702359?utm_medium=api&utm_source=rss) by Scott Lynch (unrated)
-- [Annihilation (Southern Reach, #1)](https://www.goodreads.com/review/show/7281859850?utm_medium=api&utm_source=rss) by Jeff VanderMeer (unrated)
 - [Tender Is the Flesh](https://www.goodreads.com/review/show/7276253293?utm_medium=api&utm_source=rss) by Agustina Bazterrica (unrated)
 <!-- GOODREADS-LIST:END -->
  
