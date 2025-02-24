@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [The Twisted Ones](https://www.goodreads.com/review/show/7350331380?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
 - [The Lies of Locke Lamora (Gentleman Bastard, #1)](https://www.goodreads.com/review/show/3208702359?utm_medium=api&utm_source=rss) by Scott Lynch (unrated)
 <!-- GOODREADS-LIST:END -->
  
