@@ -23,8 +23,8 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [One Piece, Vol. 84: Luffy vs. Sanji](https://www.goodreads.com/review/show/7353309744?utm_medium=api&utm_source=rss) by Eiichiro Oda (unrated)
 - [The Twisted Ones](https://www.goodreads.com/review/show/7350331380?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
-- [The Lies of Locke Lamora (Gentleman Bastard, #1)](https://www.goodreads.com/review/show/3208702359?utm_medium=api&utm_source=rss) by Scott Lynch (unrated)
 <!-- GOODREADS-LIST:END -->
  
 ### Some Other Books I Have Read 
