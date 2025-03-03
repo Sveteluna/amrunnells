@@ -23,6 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
+- [Slewfoot: A Tale of Bewitchery](https://www.goodreads.com/review/show/7370847205?utm_medium=api&utm_source=rss) by Brom (unrated)
 - [The Twisted Ones](https://www.goodreads.com/review/show/7350331380?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
 <!-- GOODREADS-LIST:END -->
  
