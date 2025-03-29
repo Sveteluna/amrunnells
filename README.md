@@ -23,7 +23,7 @@
  <img src="https://c.tenor.com/CsPCJHIlhy8AAAAC/frantic-studying.gif" />
  
  <!-- GOODREADS-LIST:START -->
-- [Slewfoot: A Tale of Bewitchery](https://www.goodreads.com/review/show/7370847205?utm_medium=api&utm_source=rss) by Brom (unrated)
+- [Empire of Silence (The Sun Eater, #1)](https://www.goodreads.com/review/show/7443887341?utm_medium=api&utm_source=rss) by Christopher Ruocchio (unrated)
 - [The Twisted Ones](https://www.goodreads.com/review/show/7350331380?utm_medium=api&utm_source=rss) by T. Kingfisher (unrated)
 <!-- GOODREADS-LIST:END -->
  
